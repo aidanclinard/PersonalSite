@@ -44,7 +44,7 @@ h3{
     color:rgb(243, 243, 243);
 }
 body{
-    background-image: url("/images/STONE2.png");
+    background-image: url("/STONE2.png");
     background-size: 30%;
     background-repeat: repeat;
     image-rendering: pixelated;
