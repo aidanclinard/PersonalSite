@@ -49,3 +49,57 @@ body{
     background-repeat: repeat;
     image-rendering: pixelated;
 }
+.demon_card{
+    background-image: url("images/ROCKRED1.png");
+    background-size: 80%;
+    background-repeat: repeat;
+    image-rendering: pixelated;
+    background-position: 62px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 20px rgb(10, 0, 0);
+}
+.description{
+    background-color: rgb(3, 3, 3, 0.7);
+    background-blend-mode: multiply;
+    border: double 5px rgb(255, 0, 0);
+    font-size: 15px;
+}
+.demon_image{
+    background-color: rgb(3, 3, 3, 0.7);
+    background-blend-mode: multiply;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.namecard{
+    background-color: rgb(3, 3, 3, 0.7);
+    background-blend-mode: multiply;
+    
+}
+.health{
+    background-color: rgb(3, 3, 3, 0.7);
+    background-blend-mode: multiply;
+    border: solid 5px rgb(0, 166, 255);
+    color: rgb(0, 166, 255); 
+    font-size: 15px;
+    margin-top: 15px;
+}
+.speed{
+    background-color: rgb(3, 3, 3, 0.7);
+    background-blend-mode: multiply;
+    border: solid 5px rgb(11, 163, 11);
+    color: rgb(11, 163, 11);
+    font-size: 15px;
+    margin-top: 15px;
+}
+.damage{
+    background-color: rgb(3, 3, 3, 0.7);
+    background-blend-mode: multiply;
+    border: solid 5px rgb(245, 213, 6);
+    color: rgb(245, 213, 6);
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
