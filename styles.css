@@ -9,6 +9,11 @@ content{
     text-align: center;
     
 }
+.centered_text{
+    text-align: center;
+    margin: auto;
+    
+}
 head{
     margin:auto;
     padding:10px;
