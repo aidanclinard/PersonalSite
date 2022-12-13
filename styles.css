@@ -47,6 +47,7 @@ h3{
     font-family: "Cinzel";
     font-weight: 2000;
     color:rgb(243, 243, 243);
+    background-color: rgb(3, 3, 3, 0.7);
 }
 body{
     background-image: url("images/STONE2.png");
